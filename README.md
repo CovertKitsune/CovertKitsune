@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CovertKitsune
-- 👀 I’m interested in ... AI, LLMs, AI ventures, LangChain 
-- 🌱 I’m currently learning ... Python, LangChain, Flask, SQL
+- 👀 I’m interested in ... AI, LLMs, Angular
+- 🌱 I’m currently learning ... Python, JS, TS, NGRX, Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
